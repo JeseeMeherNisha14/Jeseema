@@ -14,7 +14,7 @@ public class Log4j {
 		log.info("Information");
 		log.debug("Debugging");
 		log.fatal("Fatal Error");
-		log.error("Error");
+		log.error("ErrorError");
 		log.warn("Warning message");
 	}
 
